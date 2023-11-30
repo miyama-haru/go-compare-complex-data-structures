@@ -1,4 +1,4 @@
-module miyama/go-practice/compare-complex-data-structures
+module go-compare-complex-data-structures
 
 go 1.21.4
 
